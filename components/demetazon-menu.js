@@ -35,7 +35,7 @@ const DemetazonMenu = ({ onClose }) => {
   const { open } = useWeb3Modal()
 
   const onDeveloperClick = useCallback(() => {
-    window.open("https://jeffspace.vercel.app");
+    window.open("https://parkingswing.vercel.app");
   }, []);
 
   return (
